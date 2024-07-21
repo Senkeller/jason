@@ -1,0 +1,1 @@
+ I'm Jason, pleasure to meet you. I am currently a member of the Dasso technical team. My background is in Wood Science and Technology.
