@@ -21,13 +21,15 @@
     "nightTheme":"dark_colorblind",
     "urlMode":"pinyin",
     "style":"",
-    "script":"",
     "indexStyle":"",
-    "indexScript":"",
     "showPostSource":1,
     "rssSplit":"sentence",
     "bottomText":"☕转载请注明出处",
     "ogImage":"https://images.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=%E7%BE%8E%E5%A5%B3&step_word=&lid=8984795112679083875&ie=utf-8&in=&cl=2&lm=-1&st=-1&hd=undefined&latest=undefined&copyright=undefined&cs=1472567064,4134798720&os=2903987463,71188112&simid=1472567064,4134798720&pn=37&rn=1&di=7375936315981824001&ln=1865&fr=&fmq=1720950779636_R&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2Fup.enterdesk.com%2Fedpic_source%2F41%2F36%2F0a%2F41360ae2819f90927461632cd6192549.jpg&rpstart=0&rpnum=0&adpicid=0&nojc=undefined",
     "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
+    "script":"<script src='https://blog.liyifan.xyz/assets/backtotop.js'></script><script src='https://blog.liyifan.xyz/assets/lazyload.js'></script><script src='https://blog.liyifan.xyz/assets/copy.js'></script>",
+    "indexScript":"<script src='https://blog.liyifan.xyz/assets/NumPagination.js'></script><script src='https://blog.liyifan.xyz/assets/yifantheme_index.js'></script><script src='https://blog.liyifan.xyz/assets/rain.js'></script>",
+    "allHead":"<script src='https://blog.liyifan.xyz/assets/GmeekBSZ.js'></script><script src='https://blog.liyifan.xyz/assets/GmeekTOC.js'></script>",
+    "GMEEK_VERSION":"last"
     "needComment":0
 }
