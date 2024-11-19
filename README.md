@@ -1,4 +1,4 @@
-# 互联网犄角旮旯 :link: https://senkeller.github.io/jason 
+# 互联网犄角旮旯 :link: [主页](https://github.com/Senkeller/1113-0927) 
 ### :page_facing_up: [6](https://senkeller.github.io/jason/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 5314 
