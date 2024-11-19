@@ -1,6 +1,6 @@
 {
     "title":"互联网犄角旮旯",
-    "subTitle":"仅此而已。[主页]（https://senkeller.github.io/1113-0927）",
+    "subTitle":{"仅此而已"："https://senkeller.github.io/1113-0927"},
     "avatarUrl":"https://github.com/user-attachments/assets/cba134c8-1884-44f9-aea0-bca08582e538",
     "GMEEK_VERSION":"last",
     "displayTitle":"说！你想干什么？",
